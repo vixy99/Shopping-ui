@@ -1,3 +1,6 @@
-# shopping-chart
+# shopping-UI
 
-shoping chart UI using reactJs, redux, and tailwind css
+shoping chart UI using 
+-reactJs
+-redux
+-tailwind css
